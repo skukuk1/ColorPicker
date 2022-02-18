@@ -1,0 +1,8 @@
+body {
+  background-color:#ececec;
+  color:#333;
+}
+
+h1, h2, h4 p {
+  margin: 0 0 20px 0;
+}
